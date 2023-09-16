@@ -27,4 +27,4 @@ FOUND!
 Decoded name: www.example.com.
 IP Address: 93.184.216.34
 ```
-
+Note: 198.41.0.4 is hardcoded as the root-server. You can try different values listed here https://www.iana.org/domains/root/servers
