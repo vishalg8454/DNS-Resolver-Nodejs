@@ -1,0 +1,15 @@
+{
+  "name": "dns-resolver-nodejs",
+  "version": "1.0.0",
+  "description": "DNS Resolved written in NodeJS from scratch.",
+  "type": "module",
+  "main": "dns-resolver-async.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "DNS"
+  ],
+  "author": "Vishal Gaurav",
+  "license": "ISC"
+}
